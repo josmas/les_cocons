@@ -1,0 +1,47 @@
+body {
+	background-image:url('../images/motivo.png');
+	background-repeat:repeat;
+	font-family: "Courier New", Courier, mono; 
+	font-size: 10pt;
+}
+
+img {
+	border: none;
+}
+
+a {
+  color: transparent;
+}
+
+#menu { 
+	margin-top: -60px;
+    display: table;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#logo {  
+	text-decoration: none;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img.cocons {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	margin-top:10px;
+}
+
+#contacto {
+	margin-left:auto;
+	margin-right:auto;
+	display:inline;
+}	
+#blog {
+	display:inline;
+	
+	margin-left:auto;
+	margin-right:auto;
+}
