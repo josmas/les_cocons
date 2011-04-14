@@ -34,14 +34,44 @@ img.cocons {
 	margin-top:10px;
 }
 
-#contacto {
+#colecciones {
 	margin-left:auto;
 	margin-right:auto;
 	display:inline;
 }	
+
+#complementos {
+	display:inline;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#prensa {
+	display:inline;
+	margin-left:auto;
+	margin-right:auto;
+}
+
 #blog {
 	display:inline;
-	
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#maboutique {
+	display:inline;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#about {
+	display:inline;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#contacto {
+	display:inline;
 	margin-left:auto;
 	margin-right:auto;
 }
