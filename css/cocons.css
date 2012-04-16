@@ -34,45 +34,8 @@ img.cocons {
 	margin-top:10px;
 }
 
-/* TODO: make a class for all the buttons instead of having all these div styles */
-#colecciones {
+.button-images {
 	margin-left:auto;
 	display:inline;
 	margin-right:auto;
 }	
-
-#complementos {
-	display:inline;
-	margin-left:auto;
-	margin-right:auto;
-}
-
-#prensa {
-	display:inline;
-	margin-left:auto;
-	margin-right:auto;
-}
-
-#blog {
-	display:inline;
-	margin-left:auto;
-	margin-right:auto;
-}
-
-#maboutique {
-	display:inline;
-	margin-left:auto;
-	margin-right:auto;
-}
-
-#about {
-	display:inline;
-	margin-left:auto;
-	margin-right:auto;
-}
-
-#contacto {
-	display:inline;
-	margin-left:auto;
-	margin-right:auto;
-}
